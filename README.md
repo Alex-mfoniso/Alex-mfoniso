@@ -18,5 +18,4 @@ I'm a **frontend developer** and **web programmer** passionate about building in
 
 - 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex-mfoniso)](https://git.io/streak-stats)
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Alex mfoniso)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lhnzw4wmo3y45fux2fg5u3ukx4)
