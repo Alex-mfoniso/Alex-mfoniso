@@ -15,3 +15,6 @@ I'm a **frontend developer** and **web programmer** passionate about building in
 - ⚡ Fun fact: **I love foods**
 
 - [![trophy](https://github-profile-trophy.vercel.app/?username=Alex-mfoniso&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex-mfoniso)](https://git.io/streak-stats)
