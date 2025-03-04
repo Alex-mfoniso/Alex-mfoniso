@@ -12,4 +12,6 @@ I'm a **frontend developer** and **web programmer** passionate about building in
 - 💬 Ask me about **React, frontend development**.  
 - 📫 How to reach me: **alexandermfoniso18@gmail.com**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love foods**  
+- ⚡ Fun fact: **I love foods**
+
+- [![trophy](https://github-profile-trophy.vercel.app/?username=Alex-mfoniso)](https://github.com/ryo-ma/github-profile-trophy)
